@@ -12,3 +12,6 @@ Players have to repeat the sequence of colors shown by the game. Each level incr
 HTML5 – Structure
 CSS3 – Styling and animations
 JavaScript (ES6) – Game logic
+
+## Live Link
+https://simon-says-game-psi-inky.vercel.app/

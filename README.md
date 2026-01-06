@@ -1,17 +1,25 @@
-🎮 Simon Says Game
-A fun and interactive memory-based game built using HTML, CSS, and JavaScript.
-Players have to repeat the sequence of colors shown by the game. Each level increases the sequence length, testing your memory and reflexes!
+# Simon Says Game
 
-🚀 Features
-🎨 Clean and simple UI
-🖱️ Interactive button sounds and animations
-⬆️ Increasing difficulty with each level
-🧠 Memory + reflex challenge
+An interactive Simon Says memory game built using HTML, CSS, and JavaScript. 
+The game challenges players to memorize and repeat an increasing sequence of colors.
 
-🛠️ Tech Stack
-HTML5 – Structure
-CSS3 – Styling and animations
-JavaScript (ES6) – Game logic
+## Features
+- Dynamic sequence generation
+- User input validation
+- Visual feedback on button clicks
+- Level-based difficulty progression
+- Keyboard interaction to start/restart the game
 
-## Live Link
+## Tech Stack
+HTML5, CSS3, JavaScript
+
+## Live Demo
 https://simon-says-game-psi-inky.vercel.app/
+
+## Purpose
+This project was built to practice JavaScript fundamentals, DOM manipulation, and event-driven programming.
+
+## Learnings
+- Event handling and game logic implementation
+- Managing state and sequences in JavaScript
+- DOM manipulation and UI updates
